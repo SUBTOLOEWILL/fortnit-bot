@@ -1,0 +1,2 @@
+# fortnit-bot
+bot
